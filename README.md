@@ -92,5 +92,14 @@ type ExperienceSettings = {
 }
 ```
 
+### Example of files
+
+```
+https://ss-viewer.web.app/?content=first.ply&noanim&noui
+
+https://ss-viewer.web.app/?content=sec.ply&noanim&noui
+```
+
+
 ## Notes
 - We plan to convert the source to typescript
